@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm an InfoSec student from Germany with a passion for OS and firmware security architecture, reverse engineering, offensive security and malware research.  
-Projects and fields I have previously spent time with include:  
+I'm an InfoSec student from Germany with a passion for OS and firmware security architecture, reverse engineering, offensive security and malware research. Projects and fields I have previously spent time with include:  
 
 ### Programming
 -🟢 Building secure system-level software in C for the Windows OS (for both user mode and kernel mode)  
@@ -15,7 +14,7 @@ Projects and fields I have previously spent time with include:
 -🟢 Participating in various Capture-The-Flag (CTF) programs such as HackTheBox  
 -🟢 Performing web hacking in simulated environments  
 -🟢 Building Red Team offensive software for the Windows OS  
--🟢 Implementing multiple proof-of-concepts for Kernel mode rootkits and UEFI-based bootkits  
+-🟢 Implementing multiple proof-of-concepts for kernel mode rootkits and UEFI based bootkits  
 -🟢 Low-level exploit development  
 
 ### Reverse Engineering
@@ -25,10 +24,10 @@ Projects and fields I have previously spent time with include:
 -🟢 Reverse engineering the Windows boot process and its various boot applications  
 
 ### Research
--🟢 Conducting vulnerability research on the Windows OS and UEFI systems  
+-🟢 Conducting vulnerability research on Windows and UEFI systems  
 -🟢 Studying modern boot security and its flaws, including TPM based security such as SRTM/DRTM based attestation (some of which I discuss in a more casual setting [here](https://never-unsealed.gitbook.io/blog))  
--🟢 Researching modern OS security mechanisms such as Virtualization-Based Security (VBS)  
--🟢 Writing various scientific papers on the current state of UEFI and Kernel mode threats and security measures  
+-🟢 Researching modern (hardware based) OS security mechanisms such as Virtualization Based Security (VBS)  
+-🟢 Writing various scientific papers on the current state of UEFI and kernel mode threats and security measures  
 
 <!--
 **never-unsealed/never-unsealed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
