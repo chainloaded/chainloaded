@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an InfoSec student from Germany with a passion for OS and firmware security, offensive security and malware research.  
+I'm an InfoSec student from Germany with a passion for OS and firmware security architecture, reverse engineering, offensive security and malware research.  
 Projects and fields I have previously spent time with include:  
 
 ### Programming
