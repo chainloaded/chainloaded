@@ -13,7 +13,7 @@ Projects and fields I have previously spent time with include:
 
 ### Offensive security
 -🟢 Participating in various Capture-The-Flag (CTF) programs such as HackTheBox  
--🟢 Performing web hacking in various emulated environments  
+-🟢 Performing web hacking in simulated environments  
 -🟢 Building Red Team offensive software for the Windows OS  
 -🟢 Implementing multiple proof-of-concepts for Kernel mode rootkits and UEFI-based bootkits  
 -🟢 Low-level exploit development  
