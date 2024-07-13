@@ -3,9 +3,9 @@
 I'm an InfoSec student from Germany with a passion for OS and firmware security architecture, reverse engineering, offensive security and malware research. Projects and fields I have previously spent time with include:  
 
 ### Programming
--🟢 Building secure system-level software in C for the Windows OS (for both user mode and kernel mode)  
+-🟢 Building secure system-level software in C for the Windows OS (user mode & kernel mode)  
 -🟢 Building boot applications in C for the Unified Extensible Firmware Interface (UEFI)  
--🟢 Creating anti-reverse-engineering systems using Code-Virtualization concepts  
+-🟢 Creating anti-reverse-engineering systems using code-virtualization concepts  
 -🟢 Building web frontends using HTML, CSS, and JavaScript (including various third-party libraries)  
 -🟢 Building secure web backends using PHP and MySQL  
 -🟢 Building automation software in various programming languages such as Java and Python  
@@ -13,14 +13,14 @@ I'm an InfoSec student from Germany with a passion for OS and firmware security 
 ### Offensive security
 -🟢 Participating in various Capture-The-Flag (CTF) programs such as HackTheBox  
 -🟢 Performing web hacking in simulated environments  
--🟢 Building Red Team offensive software for the Windows OS  
+-🟢 Building Red Team offensive software for Windows  
 -🟢 Implementing multiple proof-of-concepts for kernel mode rootkits and UEFI based bootkits  
 -🟢 Low-level exploit development  
 
 ### Reverse Engineering
--🟢 Reverse engineering x86-based binaries and systems using tools such as IDA and Binary Ninja  
+-🟢 Reverse engineering x86 based binaries and systems using tools such as IDA and Binary Ninja  
 -🟢 Dynamic reverse engineering using the IDA Debugger, x64dbg, and WinDBG  
--🟢 Reverse engineering the internal processes of the Windows OS in both user mode and kernel mode  
+-🟢 Reverse engineering internal processes and modules of the Windows OS  
 -🟢 Reverse engineering the Windows boot process and its various boot applications  
 
 ### Research
