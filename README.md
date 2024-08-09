@@ -29,7 +29,8 @@ Projects and fields I have previously spent time with include:
 
 ### Research
 -🟢 Conducting vulnerability research on Windows and UEFI systems  
--🟢 Studying modern boot security and its flaws, including TPM based security such as SRTM/DRTM based attestation (some of which I discuss in a more casual setting [here](https://never-unsealed.gitbook.io/blog))  
+-🟢 Studying modern boot security and its flaws. 
+-🟢 Studying TPM based security such as SRTM/DRTM based attestation (some of which I discuss in a more casual setting [here](https://never-unsealed.gitbook.io/blog))  
 -🟢 Researching modern (hardware based) OS security mechanisms such as Virtualization Based Security (VBS)  
 -🟢 Writing various scientific papers on the current state of UEFI and kernel mode threats and security measures  
 
