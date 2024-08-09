@@ -2,6 +2,8 @@
 
 I'm an InfoSec student from Germany with a passion for systems programming, OS and firmware security architecture including Trusted Computing concepts, reverse engineering, offensive security and malware research. Projects and fields I have previously spent time with include:  
 
+<hr>
+
 ### Programming
 -🟢 Building secure system-level software in C for the Windows OS (user mode & kernel mode)  
 -🟢 Building boot applications in C for the Unified Extensible Firmware Interface (UEFI)  
