@@ -1,8 +1,14 @@
 ## Hi there 👋
 
-I'm an InfoSec student from Germany with a passion for systems programming, OS and firmware security architecture including Trusted Computing concepts, reverse engineering, offensive security and malware research. Projects and fields I have previously spent time with include:  
+I'm an InfoSec student from Germany with a passion for systems programming, OS and firmware security architecture including Trusted Computing concepts, reverse engineering, offensive security and malware research.  
+
+<table>
+  <tr>test</tr>
+</table>
 
 <hr>
+
+Projects and fields I have previously spent time with include:
 
 ### Programming
 -🟢 Building secure system-level software in C for the Windows OS (user mode & kernel mode)  
