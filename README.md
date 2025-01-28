@@ -5,14 +5,14 @@ If you'd like to reach out, feel free to add me on Discord (never_unsealed)!
 
 <hr>
 
-Projects and fields I have previously spent time with include:
+My past projects and focus areas include:
 
 ### Programming 💻
 🟢 Building system-level software for Windows (usermode & kernelmode)  
 🟢 Building boot applications for the Unified Extensible Firmware Interface (UEFI)  
-🟢 Building anti reverse engineering solutions based on code virtualization.    
+🟢 Building anti reverse engineering solutions based on code virtualization    
 🟢 Building web front-ends using HTML, CSS, and JavaScript (including various frameworks)  
-🟢 Building secure web backends using Rust and PHP   
+🟢 Building secure web back-ends using Rust and PHP   
 🟢 Building automation software in various programming languages such as Java and Python  
 
 ### Offensive security 🟥
@@ -34,7 +34,7 @@ Projects and fields I have previously spent time with include:
 🟢 Studying Trusted Computing (which I discuss in a more casual setting [here](https://never-unsealed.gitbook.io/blog))  
 🟢 Researching modern (hardware based) OS security mechanisms such as Virtualization Based Security (VBS)  
 🟢 Writing various scientific papers on the current state of UEFI and kernel mode threats and security measures  
-🟢 Writing a Bachelors Thesis on the various approaches to code virtualization as a reverse engineering protection  
+🟢 Writing a Bachelor's thesis on the various approaches to code virtualization as a reverse engineering protection  
 <!--
 **never-unsealed/never-unsealed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
