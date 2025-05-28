@@ -1,40 +1,41 @@
 ## Hi there 👋
 
-I'm an InfoSec student from Germany with a passion for systems programming, OS and firmware security architecture, reverse engineering, offensive security and malware research.  
+I'm an graduate InfoSec student from Germany with a passion for systems programming, OS and firmware security architecture, reverse engineering, offensive security and malware research.   
+
 If you'd like to reach out, feel free to add me on Discord (never_unsealed)!  
+
+You might also take a look at my [blog](https://never-unsealed.gitbook.io/blog), where I spontaneously discuss topics such as boot and platform security, and whatever else I find interesting enough! 
 
 <hr>
 
-My past projects and focus areas include:
+Some of my past work includes:  
 
 ### Programming 💻
-🟢 Building system-level software for Windows (usermode & kernelmode)  
-🟢 Building boot applications for the Unified Extensible Firmware Interface (UEFI)  
-🟢 Building anti reverse engineering solutions based on code virtualization    
-🟢 Building web front-ends using HTML, CSS, and JavaScript (including various frameworks)  
-🟢 Building secure web back-ends using Rust and PHP   
-🟢 Building automation software in various programming languages such as Java and Python  
+⚡ Coding system-level software for Windows (usermode & kernelmode) using Win32 and native APIs   
+⚡ Coding boot applications for the Unified Extensible Firmware Interface (UEFI)  
+⚡ Writing binary obfuscation and virtualization tools  
+⚡ Building web apps with Rust and PHP.  
+⚡ Coding various tools in languages such as Java and Python.  
 
 ### Offensive security 🟥
-🟢 Participating in Capture-The-Flag (CTF) programs such as HackTheBox  
-🟢 Performing web hacking in simulated environments  
-🟢 Building Red Team offensive software for Windows  
-🟢 Implementing multiple proof-of-concepts for kernel mode rootkits and UEFI based bootkits  
-🟢 Low-level exploit development  
+⚡ Participating in CTF programs such as HackTheBox   
+⚡ Building red team oriented software (such as C2s) for Windows  
+⚡ Implementing multiple proof-of-concepts for kernel mode rootkits and UEFI based bootkits  
+⚡ Low-level exploit development  
 
 ### Reverse Engineering 👾
-🟢 Reverse engineering x86 based binaries and systems using tools such as IDA and Binary Ninja  
-🟢 Dynamic reverse engineering using the IDA Debugger, x64dbg and WinDBG  
-🟢 Reverse engineering internal mechanisms and modules of the Windows OS  
-🟢 Reverse engineering the Windows boot process and its various boot applications  
+⚡ Reverse engineering internal mechanisms and modules of the Windows OS  
+⚡ Reverse engineering the Windows boot process and its various boot applications  
 
 ### Research ✍️
-🟢 Conducting vulnerability research on Windows and UEFI systems  
-🟢 Studying modern boot security and its flaws  
-🟢 Studying Trusted Computing (which I discuss in a more casual setting [here](https://never-unsealed.gitbook.io/blog))  
-🟢 Researching modern (hardware based) OS security mechanisms such as Virtualization Based Security (VBS)  
-🟢 Writing various scientific papers on the current state of UEFI and kernel mode threats and security measures  
-🟢 Writing a Bachelor's thesis on the various approaches to code virtualization as a reverse engineering protection  
+⚡ Conducting vulnerability research on Windows and UEFI systems  
+⚡ Writing various scientific papers on the current state of UEFI and kernel mode threats and security measures  
+⚡ Writing a Bachelor's thesis on the various approaches to code virtualization as a reverse engineering protection  
+
+<hr>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=never-unsealed&hide=makefile,cmake&theme=tokyonight)
+
 <!--
 **never-unsealed/never-unsealed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
