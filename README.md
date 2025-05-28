@@ -34,8 +34,18 @@ Some of my past work includes:
 
 <hr>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=never-unsealed&hide=makefile,cmake&theme=tokyonight)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=never-unsealed&hide=makefile,cmake&theme=tokyonight" alt="Top Langs" />
+    </td>
+    <td style="padding-left: 100px;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,php,js,html,css" alt="My Skills" />
+      </a>
+    </td>
+  </tr>
+</table>
 <!--
 **never-unsealed/never-unsealed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
