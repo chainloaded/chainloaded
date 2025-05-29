@@ -4,7 +4,7 @@ I'm a graduate InfoSec student from Germany with a passion for systems programmi
 
 If you'd like to reach out, feel free to add me on Discord (never_unsealed)!  
 
-You might also take a look at my [blog](https://never-unsealed.gitbook.io/blog), where I spontaneously discuss topics such as boot and platform security, and whatever else I find interesting enough! 
+You might also take a look at my [blog](https://chainloaded.gitbook.io/blog), where I spontaneously discuss topics such as boot and platform security, and whatever else I find interesting enough! 
 
 <hr>
 
