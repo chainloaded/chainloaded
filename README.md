@@ -2,7 +2,7 @@
 
 I'm a graduate InfoSec student from Germany with a passion for systems programming, OS and firmware security architecture, reverse engineering, offensive security and malware research.   
 
-If you'd like to reach out, feel free to add me on Discord (never_unsealed)!  
+If you'd like to reach out, feel free to add me on Discord (chainloaded)!  
 
 You might also take a look at my [blog](https://chainloaded.gitbook.io/blog), where I spontaneously discuss topics such as boot and platform security, and whatever else I find interesting enough! 
 
