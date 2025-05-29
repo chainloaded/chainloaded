@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an graduate InfoSec student from Germany with a passion for systems programming, OS and firmware security architecture, reverse engineering, offensive security and malware research.   
+I'm a graduate InfoSec student from Germany with a passion for systems programming, OS and firmware security architecture, reverse engineering, offensive security and malware research.   
 
 If you'd like to reach out, feel free to add me on Discord (never_unsealed)!  
 
@@ -14,7 +14,7 @@ Some of my past work includes:
 ⚡ Coding system-level software for Windows (usermode & kernelmode) using Win32 and native APIs   
 ⚡ Coding boot applications for the Unified Extensible Firmware Interface (UEFI)  
 ⚡ Writing binary obfuscation and virtualization tools  
-⚡ Building web apps with Rust and PHP.  
+⚡ Building web apps with Rust and PHP  
 ⚡ Coding various tools in languages such as Java and Python.  
 
 ### Offensive security 🟥
