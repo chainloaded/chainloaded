@@ -37,7 +37,7 @@ Some of my past work includes:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=never-unsealed&hide=makefile,cmake&theme=tokyonight" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chainloaded&hide=makefile,cmake&theme=tokyonight" alt="Top Langs" />
     </td>
     <td style="padding-left: 100px;">
       <a href="https://skillicons.dev">
