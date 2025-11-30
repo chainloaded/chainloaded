@@ -1,6 +1,8 @@
-## Hi there 👋
+<h2 align="center">
+Hi there 👋
+</h2>
 
-I'm a graduate InfoSec student from Germany with a passion for pretty much anything low-level. My specific interests include vulnerability research and reversee engineering, systems programming and OS and firmware security architecture.
+I'm a graduate InfoSec student from Germany with a passion for pretty much anything low-level. My specific interests include vulnerability research and reverse engineering, systems programming and OS and firmware security architecture.
 
 If you'd like to reach out, feel free to add me on Discord (chainloaded)!  
 
